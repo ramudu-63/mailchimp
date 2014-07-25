@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Bright Blue  ******************************/
+a {
+  color: #00aef3;
+}
+.btn.btn-default {
+  border: 1px solid #00aef3;
+  color: #00aef3;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #00aef3;
+}
+.home .caption .caption-link:hover {
+  background-color: #00aef3;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #00aef3 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #00aef3 transparent #00aef3;
+}
+.item-thumbnail .overthumb {
+  background: #00aef3;
+}
+.dropcap:first-letter {
+  background-color: #00aef3;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #00aef3;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #00aef3;
+}
+.navbar-nav>li.active>a {
+  color: #00aef3;
+}
+.review-item figure figcaption h5 {
+  color: #00aef3;
+}
+.review-item .quote span {
+  color: #00aef3;
+}
+.screenshots-item figcaption {
+  background-color: #00aef3;
+}
+.social li a:hover {
+  border-color: #00aef3;
+  color: #00aef3;
+}
+.suscribe input:focus {
+  border-color: #00aef3;
+}
+
+
+
+
+

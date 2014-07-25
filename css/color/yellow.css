@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Yellow  ******************************/
+a {
+  color: #ffcb07;
+}
+.btn.btn-default {
+  border: 1px solid #ffcb07;
+  color: #ffcb07;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #ffcb07;
+}
+.home .caption .caption-link:hover {
+  background-color: #ffcb07;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #ffcb07 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #ffcb07 transparent #ffcb07;
+}
+.item-thumbnail .overthumb {
+  background: #ffcb07;
+}
+.dropcap:first-letter {
+  background-color: #ffcb07;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #ffcb07;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #ffcb07;
+}
+.navbar-nav>li.active>a {
+  color: #ffcb07;
+}
+.review-item figure figcaption h5 {
+  color: #ffcb07;
+}
+.review-item .quote span {
+  color: #ffcb07;
+}
+.screenshots-item figcaption {
+  background-color: #ffcb07;
+}
+.social li a:hover {
+  border-color: #ffcb07;
+  color: #ffcb07;
+}
+.suscribe input:focus {
+  border-color: #ffcb07;
+}
+
+
+
+
+

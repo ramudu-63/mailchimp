@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Tangerine  ******************************/
+a {
+  color: #fb921c;
+}
+.btn.btn-default {
+  border: 1px solid #fb921c;
+  color: #fb921c;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #fb921c;
+}
+.home .caption .caption-link:hover {
+  background-color: #fb921c;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #fb921c transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #fb921c transparent #fb921c;
+}
+.item-thumbnail .overthumb {
+  background: #fb921c;
+}
+.dropcap:first-letter {
+  background-color: #fb921c;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #fb921c;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #fb921c;
+}
+.navbar-nav>li.active>a {
+  color: #fb921c;
+}
+.review-item figure figcaption h5 {
+  color: #fb921c;
+}
+.review-item .quote span {
+  color: #fb921c;
+}
+.screenshots-item figcaption {
+  background-color: #fb921c;
+}
+.social li a:hover {
+  border-color: #fb921c;
+  color: #fb921c;
+}
+.suscribe input:focus {
+  border-color: #fb921c;
+}
+
+
+
+
+

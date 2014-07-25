@@ -1,0 +1,60 @@
+/***************************************************************************/
+/*****************************  Color: Green  ******************************/
+a {
+  color: #38b649;
+}
+.btn.btn-default {
+  border: 1px solid #38b649;
+  color: #38b649;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #38b649;
+}
+.home .caption .caption-link:hover {
+  background-color: #38b649;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #38b649 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #38b649 transparent #38b649;
+}
+.item-thumbnail .overthumb {
+  background: #38b649;
+}
+.dropcap:first-letter {
+  background-color: #38b649;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #c1f03d;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #38b649;
+}
+.navbar-nav>li.active>a {
+  color: #38b649;
+}
+.review-item figure figcaption h5 {
+  color: #38b649;
+}
+.review-item .quote span {
+  color: #38b649;
+}
+.screenshots-item figcaption {
+  background-color: #38b649;
+}
+.social li a:hover {
+  border-color: #38b649;
+  color: #38b649;
+}
+.suscribe input:focus {
+  border-color: #38b649;
+}
+
+
+
+

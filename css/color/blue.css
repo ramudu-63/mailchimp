@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Blue  ******************************/
+a {
+  color: #0B67E4;
+}
+.btn.btn-default {
+  border: 1px solid #0B67E4;
+  color: #0B67E4;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #0B67E4;
+}
+.home .caption .caption-link:hover {
+  background-color: #0B67E4;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #0B67E4 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #0B67E4 transparent #0B67E4;
+}
+.item-thumbnail .overthumb {
+  background: #0B67E4;
+}
+.dropcap:first-letter {
+  background-color: #0B67E4;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #0B67E4;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #0B67E4;
+}
+.navbar-nav>li.active>a {
+  color: #0B67E4;
+}
+.review-item figure figcaption h5 {
+  color: #0B67E4;
+}
+.review-item .quote span {
+  color: #0B67E4;
+}
+.screenshots-item figcaption {
+  background-color: #0B67E4;
+}
+.social li a:hover {
+  border-color: #0B67E4;
+  color: #0B67E4;
+}
+.suscribe input:focus {
+  border-color: #0B67E4;
+}
+
+
+
+
+

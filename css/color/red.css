@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Red  ******************************/
+a {
+  color: #ED1C24;
+}
+.btn.btn-default {
+  border: 1px solid #ED1C24;
+  color: #ED1C24;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #ED1C24;
+}
+.home .caption .caption-link:hover {
+  background-color: #ED1C24;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #ED1C24 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #ED1C24 transparent #ED1C24;
+}
+.item-thumbnail .overthumb {
+  background: #ED1C24;
+}
+.dropcap:first-letter {
+  background-color: #ED1C24;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #ED1C24;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #ED1C24;
+}
+.navbar-nav>li.active>a {
+  color: #ED1C24;
+}
+.review-item figure figcaption h5 {
+  color: #ED1C24;
+}
+.review-item .quote span {
+  color: #ED1C24;
+}
+.screenshots-item figcaption {
+  background-color: #ED1C24;
+}
+.social li a:hover {
+  border-color: #ED1C24;
+  color: #ED1C24;
+}
+.suscribe input:focus {
+  border-color: #ED1C24;
+}
+
+
+
+
+
