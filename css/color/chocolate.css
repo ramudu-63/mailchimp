@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Chocolate  ******************************/
+a {
+  color: #613810;
+}
+.btn.btn-default {
+  border: 1px solid #613810;
+  color: #613810;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #613810;
+}
+.home .caption .caption-link:hover {
+  background-color: #613810;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #613810 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #613810 transparent #613810;
+}
+.item-thumbnail .overthumb {
+  background: #613810;
+}
+.dropcap:first-letter {
+  background-color: #613810;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #613810;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #613810;
+}
+.navbar-nav>li.active>a {
+  color: #613810;
+}
+.review-item figure figcaption h5 {
+  color: #613810;
+}
+.review-item .quote span {
+  color: #613810;
+}
+.screenshots-item figcaption {
+  background-color: #613810;
+}
+.social li a:hover {
+  border-color: #613810;
+  color: #613810;
+}
+.suscribe input:focus {
+  border-color: #613810;
+}
+
+
+
+
+

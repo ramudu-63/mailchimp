@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Orange  ******************************/
+a {
+  color: #f36520;
+}
+.btn.btn-default {
+  border: 1px solid #f36520;
+  color: #f36520;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #f36520;
+}
+.home .caption .caption-link:hover {
+  background-color: #f36520;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #f36520 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #f36520 transparent #f36520;
+}
+.item-thumbnail .overthumb {
+  background: #f36520;
+}
+.dropcap:first-letter {
+  background-color: #f36520;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #f36520;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #f36520;
+}
+.navbar-nav>li.active>a {
+  color: #f36520;
+}
+.review-item figure figcaption h5 {
+  color: #f36520;
+}
+.review-item .quote span {
+  color: #f36520;
+}
+.screenshots-item figcaption {
+  background-color: #f36520;
+}
+.social li a:hover {
+  border-color: #f36520;
+  color: #f36520;
+}
+.suscribe input:focus {
+  border-color: #f36520;
+}
+
+
+
+
+

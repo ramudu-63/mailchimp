@@ -1,0 +1,223 @@
+/**
+ *
+ *
+ *
+ *
+/***************************************************************************/
+/****************************  $Media Queries  *****************************/
+/*
+ * The styles by default are for desktops devices with resolutions
+ * than 1200px of width or more.
+ */
+/**
+ *
+ *
+/*****************  $Medium devices (Desktops) <= 1200px  ******************/
+@media handheld, only screen and (max-width: 1200px) {
+  .navbar-nav li a {
+    padding: 30px;
+  }
+  .home {
+    padding: 50px 0;
+    min-height: 800px;
+  }
+  .home .img {
+    width: 310px;
+  }
+  .home .caption,
+  .home .txt {
+    margin: 0 0 0 350px;
+  }
+  .home .caption .caption-txt {
+    width: 300px;
+  }
+  .featured .container {
+    padding: 50px 0 0 0;
+  }
+  .product .product-item .tablet {
+    width: 850px;
+  }
+  .product .product-item [class^="col-"],
+  .product .product-item [class*=" col-"] {
+    min-height: 640px;
+  }
+  .product .product-item .phone-items .phone-item {
+    margin: 0 10px;
+    max-width: 250px;
+  }
+    h2 {
+  background-image: url("../img/bg-title.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 2.3em;
+  height: 125px;
+  line-height: 95px;
+  margin: 100px auto 70px;
+  text-align: center;
+  width:;
+  color:#ef6619;
+  text-transform:none;
+  font-weight:300;
+  letter-spacing:-.025em
+}
+}
+/**
+ *
+ *
+/*******************  $Small devices (Tablets) <= 992px  *******************/
+@media handheld, only screen and (max-width: 992px) {
+  .navbar-nav li a {
+    padding: 30px 10px;
+  }
+  .home {
+    min-height: 700px;
+  }
+  .home .img {
+    width: 180px;
+  }
+  .home .caption,
+  .home .txt {
+    margin: 0 0 0 200px;
+  }
+  .home .txt {
+    max-width: 370px;
+  }
+  .home .caption .caption-link {
+    width: 170px;
+  }
+  .home .caption .caption-txt {
+    width: 270px;
+  }
+    h2 {
+  background-image: url("../img/bg-title.png");
+  background-repeat: no-repeat;
+  background-size: contain;
+  font-size: 1.8em;
+  height: 125px;
+  line-height: 75px;
+  margin: 100px auto 70px;
+  text-align: center;
+  width:;
+  color:#ef6619;
+  text-transform:none;
+  font-weight:300;
+  letter-spacing:-.025em
+}
+
+}
+/*
+ *
+ *
+/****************  $Extra Small devices (Phones) <= 768px  *****************/
+@media handheld, only screen and (max-width: 768px) {
+  .home {
+    height: auto;
+    padding-bottom: 100px;
+  }
+  .home .caption,
+  .home .img,
+  .home .txt {
+    float: none;
+    position: static;
+    margin: 0 auto;
+  }
+  .home .caption img,
+  .home .img img,
+  .home .txt img {
+    position: static;
+    float: none;
+  }
+  .home .caption {
+    width: 100%;
+  }
+  .home .caption .caption-link,
+  .home .caption .caption-txt {
+    float: none;
+    left: 0;
+  }
+  .home .caption .caption-link:after,
+  .home .caption .caption-txt:after {
+    border-bottom: 30px solid #000;
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    border-top: 30px solid #000;
+  }
+  .home .caption .caption-link:hover:after {
+    border-color: #0c66f0 transparent #0c66f0 transparent;
+  }
+  .home .caption .caption-link {
+    margin: 10px 15%;
+    width: 70%;
+  }
+  .home .caption .caption-txt {
+    margin: 10px 10%;
+    width: 80%;
+  }
+  .home .featured {
+    position: static;
+  }
+  .home .carousel-indicators {
+    position: static;
+    margin: 10px 0;
+    text-align: center;
+  }
+  h2 {
+    height: 45px;
+    line-height: 45px;
+    margin: 70px auto 50px;
+	font-size:2.1em;
+	background: none;
+  }
+
+  .product .product-item .tablet {
+    width: 550px;
+  }
+  .product .product-item .phone {
+    width: 200px;
+  }
+  .product .product-item [class^="col-"],
+  .product .product-item [class*=" col-"] {
+    min-height: 400px;
+    padding: 10px 0;
+  }
+  .product .product-item .phone-items .phone-item {
+    margin: 20px 5px;
+    max-width: 200px;
+  }
+  .team figure,
+  .screenshots-item {
+    max-width: 300px;
+    margin: 20px auto;
+  }
+  .suscribe h2 {
+    font-size: 1.5em;
+  }
+  .social li {
+    margin: 10px 13px;
+  }
+}
+/*
+ *
+ *
+/****************  $Extra Small devices (Phones) <= 400px  *****************/
+@media handheld, only screen and (max-width: 400px) {
+  .home {
+    min-height: 750px;
+  }
+  h2 {
+    width: 100%;
+    background: none;
+	font-size:1.8em;
+  }
+  .navbar-nav {
+    float: none;
+    margin: 0;
+  }
+  .navbar-collapse {
+    background-color: #fff;
+    border: #000;
+  }
+  .navbar-collapse li a {
+    padding: 10px 0;
+  }
+}

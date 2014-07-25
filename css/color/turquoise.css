@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Turquoise  ******************************/
+a {
+  color: #0dcedf;
+}
+.btn.btn-default {
+  border: 1px solid #0dcedf;
+  color: #0dcedf;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #0dcedf;
+}
+.home .caption .caption-link:hover {
+  background-color: #0dcedf;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #0dcedf transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #0dcedf transparent #0dcedf;
+}
+.item-thumbnail .overthumb {
+  background: #0dcedf;
+}
+.dropcap:first-letter {
+  background-color: #0dcedf;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #0dcedf;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #0dcedf;
+}
+.navbar-nav>li.active>a {
+  color: #0dcedf;
+}
+.review-item figure figcaption h5 {
+  color: #0dcedf;
+}
+.review-item .quote span {
+  color: #0dcedf;
+}
+.screenshots-item figcaption {
+  background-color: #0dcedf;
+}
+.social li a:hover {
+  border-color: #0dcedf;
+  color: #0dcedf;
+}
+.suscribe input:focus {
+  border-color: #0dcedf;
+}
+
+
+
+
+

@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Lime  ******************************/
+a {
+  color: #8ec841;
+}
+.btn.btn-default {
+  border: 1px solid #8ec841;
+  color: #8ec841;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #8ec841;
+}
+.home .caption .caption-link:hover {
+  background-color: #8ec841;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #8ec841 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #8ec841 transparent #8ec841;
+}
+.item-thumbnail .overthumb {
+  background: #8ec841;
+}
+.dropcap:first-letter {
+  background-color: #8ec841;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #8ec841;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #8ec841;
+}
+.navbar-nav>li.active>a {
+  color: #8ec841;
+}
+.review-item figure figcaption h5 {
+  color: #8ec841;
+}
+.review-item .quote span {
+  color: #8ec841;
+}
+.screenshots-item figcaption {
+  background-color: #8ec841;
+}
+.social li a:hover {
+  border-color: #8ec841;
+  color: #8ec841;
+}
+.suscribe input:focus {
+  border-color: #8ec841;
+}
+
+
+
+
+

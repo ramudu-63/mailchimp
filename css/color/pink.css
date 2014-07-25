@@ -1,0 +1,61 @@
+/***************************************************************************/
+/*******************************  Color: Pink  ******************************/
+a {
+  color: #ef65a6;
+}
+.btn.btn-default {
+  border: 1px solid #ef65a6;
+  color: #ef65a6;
+}
+.btn.btn-default.active,
+.btn.btn-default:hover {
+  background-color: #ef65a6;
+}
+.home .caption .caption-link:hover {
+  background-color: #ef65a6;
+}
+.home .caption .caption-link:hover:after {
+  border-color: transparent #ef65a6 transparent;
+}
+.home .caption .caption-link:hover:before {
+  border-color: #ef65a6 transparent #ef65a6;
+}
+.item-thumbnail .overthumb {
+  background: #ef65a6;
+}
+.dropcap:first-letter {
+  background-color: #ef65a6;
+}
+.menu-effect>li>a::before,
+.menu-effect>li>a::after {
+  color: #ef65a6;
+}
+.navbar-nav>li>a:active,
+.navbar-nav>li>a:focus,
+.navbar-nav>li>a:hover {
+  color: #ef65a6;
+}
+.navbar-nav>li.active>a {
+  color: #ef65a6;
+}
+.review-item figure figcaption h5 {
+  color: #ef65a6;
+}
+.review-item .quote span {
+  color: #ef65a6;
+}
+.screenshots-item figcaption {
+  background-color: #ef65a6;
+}
+.social li a:hover {
+  border-color: #ef65a6;
+  color: #ef65a6;
+}
+.suscribe input:focus {
+  border-color: #ef65a6;
+}
+
+
+
+
+
